@@ -341,6 +341,11 @@ font header .navbar-default .navbar-nav li a:hover {
   display: inline-block;
   border: 0px;
 }
+
+.owl-carousel .user img {
+    width: 53px;
+    height: 53px;
+}
 /*--
 	features Start
 --*/
