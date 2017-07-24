@@ -1,5 +1,7 @@
 ---
 title: ¿ Que Hacer ?
+order: 20
+float: right
 ---
 
 Durante el mes de agosto, en la ciudad de Buenos Aires, se celebrará el

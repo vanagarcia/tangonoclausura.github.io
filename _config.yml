@@ -14,7 +14,7 @@ keep_files:
 
 
 # Site settings
-title: #ElTangoNoSeClausura
+title: "#ElTangoNoSeClausura"
 subtitle: "Las milongas, nuestra identidad"
 url: "http://tangonoclausura.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
