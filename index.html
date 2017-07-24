@@ -10,57 +10,49 @@ permalink: /
         <div class="row">
             <div class="col-md-10 col-md-offset-2">
                 <div class="block">
-                    <h1 class="animated fadeInUp">#ElTangoNoSeClausura</h1>
-                    <p class="animated fadeInUp">Las milongas, nuestra identidad</p>
+                    <h1 class="animated fadeInUp">{{ site.title }}</h1>
+                    <p class="animated fadeInUp">{{ site.subtitle }}</p>
                 </div>
             </div>
         </div>
     </div>
 </section>
 <!-- Wrapper Start -->
-<section id="intro">
+{% for section in site.sections %}
+<section id="{{ section.id | split: "/" | last}}">
     <div class="container">
         <div class="row">
+            {% if section.image %}
             <div class="col-md-7 col-sm-12">
                 <div class="block">
                     <div class="section-title">
-                        <h2>El Reclamo</h2>
-                        <p>EXIGIMOS que el Gobierno de la Ciudad Autónoma de Buenos Aires, en cumplimiento de lo dispuesto en la ley n° 130 de la CABA, arbitre los mecanismos necesarios para acompañar y facilitar los procesos de habilitación, adecuación o regularización de los espacios (cerrados y abiertos) en los que funcionen milongas y prácticas de tango, teniendo especialmente en cuenta las especificidades de esta tradición.</p>
-
+                        <h2>{{ section.title }}</h2>
+                        {{ section.content | markdownify }}
                     </div>
                 </div>
             </div><!-- .col-md-7 close -->
             <div class="col-md-5 col-sm-12">
                 <div class="block">
-                    <img src="img/wrapper-img.png" alt="Img">
+                    <img src="{{ section.image }}" alt="Img">
                 </div>
             </div><!-- .col-md-5 close -->
-        </div>
-    </div>
-</section>
-
-<section id="feature">
-    <div class="container">
-        <div class="row">
+            {% else %}
             <div class="col-md-6 col-md-offset-6">
-                <h2>QUE HACER</h2>
-                <p>Durante el mes de agosto, en la ciudad de Buenos Aires, se celebrará el Mundial de Tango que organiza el gobierno de la ciudad. En la <a href="https://goo.gl/39XR4T" class="btn btn-view-works">página oficial</a> no se menciona ni una sola vez a las milongas.</p>
-                <p>Al día de hoy se desconoce dónde se puede bailar socialmente durante el mundial porteño de tango. Este hecho no es aislado ni casual: en los últimos 30 meses el Gobierno de la Ciudad ha clausurado más de 55 milongas, casi dos por mes.</p>
-                <p>
-                    La milonga es el corazón del tango: su cuna, su razón de ser y la sangre que lo mantiene vivo, preservándolo y evolucionando al mismo tiempo en ese encuentro que es la ronda, el mar de abrazos, la pista.
-                </p>
-                <p>El Gobierno de la Ciudad de Buenos Aires es insensible a los reclamos locales. Por eso les pedimos su colaboración para salvar al patrimonio de la humanidad que es el tango porteño: divulguen esta información, súmense a las acciones para visibilizar esta situación.</p>
+                <h2>{{ section.title }}</h2>
+                {{ section.content | markdownify }}
             </div>
+            {% endif %}
         </div>
     </div>
 </section>
+{% endfor %}
 
 <!-- Service Start -->
 <section id="service">
     <div class="container">
         <div class="row">
             <div class="section-title">
-                <h2>Enlces</h2>
+                <h2>Enlaces</h2>
                 <p>En este espacio compartimos la gráfica, los textos y las ideas puestas en comun</p>
             </div>
         </div>

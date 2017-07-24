@@ -22,6 +22,10 @@ baseurl: ""
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
+collections:
+  sections:
+    title: Secciones
+
 # Build settings
 markdown: kramdown
 
