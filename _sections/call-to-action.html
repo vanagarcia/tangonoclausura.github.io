@@ -1,6 +1,17 @@
 ---
-title: somos un movimiento colectivo
+title: Colectivo
+subtitle: En este espacio compartimos la gráfica, los textos y las ideas generadas en comun
 order: 30
 ---
+{% for link in site.links %}
+<div class="col-sm-6 col-md-3">
+    <div class="service-item">
+        <i class="icon {{ link.icon }}"></i>
+        <h4>{{ link.title }}</h4>
+        {{ link.content | markdownify }}
+    </div>
+</div>
+{% endfor %}
+
 <p>Nos reunimos semanalmente para compartir experiencias, ideas y planificar acciones.</p>
 <a class="btn btn-default btn-call-to-action" href="#" >Sumate</a>

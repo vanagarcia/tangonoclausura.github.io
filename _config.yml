@@ -20,11 +20,15 @@ url: "http://tangonoclausura.github.io" # the base hostname & protocol for your 
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: ""
 cover: "/assets/cover.png"
-logo: "/assets/logo.png"
+logo: "/img/logo.svg"
 
 collections:
-  sections:
-    title: Secciones
+ sections:
+      order: 1000
+      menu: false
+ links:
+      icon: "ion-earth"
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
 # Build settings
 markdown: kramdown

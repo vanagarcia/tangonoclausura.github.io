@@ -24,13 +24,13 @@ permalink: /
     <div class="container">
         {% if section.subtitle %}
         <div class="row">
-            <div class="section-title">
+            <div class="col-md-12 section-title">
                 <h2>{{ section.title }}</h2>
                 <p>{{ section.subtitle }}</p>
             </div>
         </div>
         <div class="row">
-            {{ section.content | markdownify }}
+                {{ section.content | markdownify }}
         </div>
         {% else %}
         <div class="row">
