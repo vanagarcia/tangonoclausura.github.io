@@ -176,16 +176,20 @@ font header .navbar-default .navbar-nav li a:hover {
     height: 30vh;
 }
 .service-item i {
-  font-size: 60px;
-  color: #4A4656;
+        font-size: 60px;
+        color: #888;
+        transition: all 1s;
+}
+.service-item i:hover {
+    color: #fff!important
 }
 .service-item h4 {
   padding-top: 20px;
   margin: 0;
-  color: #666;
+  color: #888;
 }
 .service-item p {
-  color: #888;
+  color: #fff;
   padding-top: 10px;
   margin: 0;
   font-size: 14px;
