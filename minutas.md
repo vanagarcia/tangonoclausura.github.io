@@ -17,326 +17,508 @@ Links
 | Milonga 18                 | <https://docs.google.com/document/d/1JcYg0ARB8yoYr_jeHhYrLuQy-2WluiF0EdUCn-S1Ck4/edit?usp=sharing>       |
 
 
+- [<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-08-30 Wed&gt; </span></span> Reunion #6](#orgaa59f1f)
+- [<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-08-16 Wed&gt; </span></span> Renuion #5](#org92c5a26)
+  - [Participantes](#orgf60a0db)
+    - [Ricardo Bernaza, Sindacto](#org801e15b)
+    - [Caro fernando matagalan](#org73a7312)
+    - [vale buyatti tangotica](#org9db198e)
+    - [juan otero, musico](#org080088d)
+    - [adrian moranchel, cantante](#org3034bc7)
+    - [gustavo persona, milonguero](#org5b4e961)
+    - [rochy milonguero](#org522e554)
+    - [oscar, tango critico](#orga1e8a51)
+    - [mariela](#org6be8f34)
+    - [estela, abrazarte](#org84ec402)
+    - [marcelo botarro, tangotica](#orga9f484a)
+    - [amancay sal, entregamba](#org6ac914f)
+    - [fabian musico,](#org55fbf1f)
+    - [sebastian fernandez, milonguero](#orgc2dafef)
+    - [atilio, la nacional](#orge357cdf)
+    - [chili muy lunes](#orgbfa8744)
+    - [china, suecia](#org41a22d3)
+  - [charla](#org9c3126e)
+    - [evento del 18](#org52a0c19)
+    - [compromisos](#orgb69ecc0)
+- [<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-08-09 Wed&gt; </span></span> Reunion #4](#org5193491)
+  - [estado de situacion](#orga109f58)
+    - [remeras estan siendo estampadas](#orgda327b4)
+    - [volantes con convactoria para el 18](#org4915af8)
+    - [milonga 18](#org78ea388)
+    - [AOM](#orgeba1c89)
+    - [Comunicaciones](#org4bd22fd)
+  - [charla](#orgef95cc7)
+    - [casa de tucuman](#orgfebd328)
+    - [teatro de la comedia](#org53c0e2f)
+    - [pedido de informacion publico](#org8ecdf9d)
+    - [situaciones](#orgb5547f7)
+    - [milongas del mundial](#org0c36884)
+    - [cobertura](#orge6907e7)
+    - [orquestas](#org396957b)
+    - [acciones](#org9bb8b09)
+- [<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-08-02 Wed&gt; </span></span> Reunion #3](#org2a7c0ff)
+  - [presentaciones](#org3f72ec1)
+    - [Pablo Rodriguez, Ines Musopapa, Sindicato de Tango Danza](#org4c56d14)
+    - [Oscar Stumpfs Tango Critico](#org2503fc1)
+  - [charla](#org51f4201)
+    - [banderas en lobas](#orgf7b764e)
+    - [ronda clasificatoria](#org8d1749d)
+    - [calendario compartido](#orgfdd7408)
+    - [documental](#org37076e3)
+    - [agenda](#org7975e15)
+    - [remeras](#orgdaadd90)
+    - [banner](#orgc3341f8)
+    - [documentos compartidos](#orge5d2420)
+    - [video](#org8576071)
+    - [comunicacion](#org748a8ad)
+    - [accion](#org10573a4)
+    - [prensa](#org0008085)
+    - [programa oficial](#org2463c95)
+    - [AOM](#org5de406b)
+    - [convocatorias](#orgd3a8c14)
+    - [compras](#org7109f9b)
+    - [max](#orgd2d0e96)
+    - [oscar](#org58cbbc0)
+    - [kanes](#org17b998a)
+    - [sol perez](#orgd29f5a9)
+- [<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-07-27 Thu&gt; </span></span> Reunion #2](#org606bb2e)
+  - [presentes](#orga59cb09)
+    - [Taiwan, Tango Marathon (Mas grande en Asia), yutan, yushan](#orgbba213f)
+    - [Katia, Documental Tango Queer](#orgb5ecdf3)
+    - [Maria Chinicci, Jueves de Ana Postigo](#orgd78f7e3)
+    - [Oscar](#org6ae2da3)
+    - [Andres Valenzuela, Pagina 12](#org566f914)
+  - [acciones](#orgff1eb10)
+    - [remeras](#orgbea93a7)
+    - [marcha](#orga4248d2)
+    - [FA CAFF](#org26a739a)
+  - [charla](#orgb6dee53)
+    - [acciones](#org39cc60f)
+    - [argumentos](#org65710b6)
+    - [ley de fomento](#org7fee89e)
+    - [clausuras](#org5c9bb1d)
+    - [guia anticlausra](#org998313d)
+    - [control ciudadano de las clausuras](#org8e39c18)
+    - [reglamentacion de la ley](#org1433155)
+    - [acciones especificas](#org4251337)
+    - [evento para prensa](#org65595f9)
+    - [reclamos de orgas compañeras](#orgd32b8d6)
+    - [congreso nacional de tango](#org962bb67)
+    - [milongas que no estan en el mundial](#orgf69c5dd)
+    - [acciones publicas](#org1899600)
+    - [acciones en milongas](#orgb081cf3)
+    - [adhesiones y traducciones](#orgfcf63e4)
+    - [comunicacion con medios y lanzamiento](#org063ffde)
+    - [marcha del tango](#orge6af1b0)
+    - [milonga publica en la final](#orgcb176eb)
+    - [recorrido y fecha de la marcha](#orgbee409b)
+    - [murgas](#org6ec2694)
+    - [operar milongas del mundial](#org549c3d0)
+    - [milonga en el obelisco](#org39043a4)
+    - [UNESCO/ONU](#org96bc730)
+    - [volantear en entrega de entradas](#orgf1a7c3c)
+    - [definiendo agenda](#orgb6c4469)
+  - [agenda](#orgea0974d)
+    - [5 de agosto nos juntamos en el CC lobas para hacer la grafica](#orgf26ccb0)
+    - [6 de agosto juntada en los techos azules](#org2ae86c4)
+    - [viernes 11, intervención el a usina](#orge72a23b)
+    - [viernes 18, juntada en el obelisco con marcha](#org9d078ea)
+    - [21 de agosto, entrega de entradas](#orga0c9e3f)
+    - [23 de agosto milonga flash en la salida del luna park](#org30ca2bd)
+  - [volantes](#org315cc40)
+  - [medios](#orgeed4741)
+    - [pagina 12 andres valenzuela](#org41e01b7)
+- [<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-07-19 Wed&gt; </span></span> Reunion #1](#org4709955)
+  - [Presentaciones](#org76230cf)
+    - [Lucia Condes, UNA](#orga48d3c3)
+    - [Ricardo Cuyul Dieu, Jose Luis Rodriguez, UNA](#org9e34ad4)
+    - [nadia, construyendo cultura, legislatura (asesora)](#org3278016)
+    - [Valerie Gros](#org8e6c1be)
+    - [Fabian, Músico](#org6a6afc4)
+    - [Valeria Buyatti: tangotica, 2x3](#orgbc2081d)
+    - [Amancay Sal: Milonga Entre Gambas](#org11155b5)
+    - [Ernan Morel: antropologo, docente/conicet](#org7c3982c)
+    - [Ruben Sola, yuko: Colabora con varias milongas](#org2b83491)
+    - [Nando: milonga la dicepolo](#org7d7afff)
+    - [Martin Chili: Muy Lunes](#org8000edd)
+    - [Klara Wolf: placita del pañuelo blanco](#org4004703)
+    - [Indio: placita del pañuelo blanco](#org0c9bdfd)
+    - [luciana miguel](#orgdca69ca)
+    - [pablo martillana, construyendo cultura](#org96f1f08)
+  - [Agenda](#org1100938)
+    - [Plan de Lucha durante el Mundial](#org308d2de)
+    - [Proyectos Amigos](#org9e61787)
+  - [Conversatorio](#org4a03f93)
+  - [acciones](#org7cfa008)
+    - [participar a la seleccion con vestuario](#orgbc1ee30)
+    - [ir con pancartas a las sedes del mundial](#org4e6607d)
+    - [volante conjunto, kit grafico](#orgc16a6d0)
+    - [banners](#org011d945)
+    - [cantito](#orgf7a3a52)
+  - [Acciones activas](#org8716f3b)
+    - [marco para fotos tanguero #etnsc, amancay](#orge7cadcd)
+    - [hacer un documento conjunto, indo](#orgfd94f19)
+    - [marcha del tango, indio](#org658eccd)
+    - [una milonga del tango no se clausura, dolores, niv](#org12fbc5d)
+    - [banner de #ETNSC, chili](#org97a91c3)
+    - [banderas en la calle, indio](#org6fa8e1d)
+    - [funcion de la compañia de la UNA, ricardo, lucia](#org157d72d)
+    - [FACAFF, amancay, kayne](#org80cd1be)
+    - [milongas publicas, indio](#org610d5f1)
+    - [actividades en milongas](#orgc9bc993)
+    - [Remeras, amancay, valeria buyatti](#orgf826045)
+    - [Trapo de color para identificar, ricardo](#orga81cd2e)
+    - [Globos, dolores,](#org60d1610)
+    - [video con cartel, chili](#orgf37d8f7)
+  - [Medios](#org3b80517)
+    - [radio grafica, amancay](#org8910ca1)
+    - [fm laboca, fm riachuela, amancay](#org4bcecbf)
+    - [hamartia, niv](#orgf40e01d)
+    - [emergentes, niv](#orga84422c)
+    - [apu, niv](#orgbf8ca2a)
+    - [diario popular, kayne](#orgbcdbf09)
+    - [radio nacional, lucia](#org5d17578)
+    - [radio unla, valeria buyatti](#orgfc6ce60)
+    - [tangauta, luciana](#orgfe606fb)
+  - [quien mas](#orgf6274b7)
+  - [reclamos](#orgc1909e2)
+    - [ley 878 (habilitaciones irrealistas)](#orgcd62da6)
+    - [una sola ley declarativa, no reglamentada](#org1febbec)
+    - [de las 6 milongas relevadas por la unesco 3 ya no existen](#orga10be90)
+    - [tarifazos y despidos](#org09204f4)
+  - [formularios](#org6b83ca1)
+    - [acciones](#org82d2f37)
+    - [adhesiones](#org80ff444)
+- [<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-07-05 Wed&gt; </span></span> Reunion #0](#orgcc0acbe)
+  - [Presentaciones](#org2a77eb1)
+    - [Pedro Galindo: la casa de teresa](#orgc3c62df)
+    - [Valeria Scheidegger: techos azules](#orga333fa6)
+    - [Valeria Buyatti: tangotica, 2x3](#org9b8f859)
+    - [Indio: placita del pañuelo blanco](#orgdb32e5a)
+    - [Julieta Lopinto](#orgf4672d6)
+    - [Amancay Sal:](#orgaedbed0)
+    - [hernan david](#org163b058)
+    - [Valerie Gros](#org88c1416)
+    - [Sebastian Fernandez](#org7f443ec)
+    - [Helena](#org2644b47)
+    - [Wanda Vinilo, Manzana de las luces](#org47c0422)
+    - [sabrina darowski](#org8295534)
+    - [Jean Paul, Maria Angeles Martinez, Practica Patricios, CC lobas](#org6da87e9)
+    - [Gustavo Duran](#orga47fa00)
+  - [abogados culturales](#org8a23a1e)
+  - [Conversatorio](#orgb2352cf)
+    - [Sobre el Fondo Metropolitano de las Artes](#org79f1192)
+    - [Milongas Públicas](#orgeeb2570)
+    - [Otras Lineas](#orgbcbad6d)
+    - [Clausuras](#org40a2094)
+    - [Abogados Culturales](#org0a115ab)
+    - [Reglamentación de la Ley de Fomento a la Milonga](#org2202263)
+    - [Personaria Juridica](#orgb01c752)
+    - [Cooperativas](#org214c494)
+    - [Organizar la lucha](#org718cfad)
+    - [Mundial de Tango](#org9fdf9b7)
+    - [Agenda de la Proxima Reunion #ETNSC: Plan de Lucha](#org6c33f65)
+    - [Milongas Sociales/#ETNSC](#org64d764b)
+    - [Subsidio/Subsidios](#org1af5b41)
+    - [Modelos Organizativos](#orgbb80c10)
+    - [Casa de Teresa](#orgf37299d)
+    - [Detalles Tecnicos del Subsidio](#org8fe8bd4)
+- [firmantes](#org812ae8e)
+- [comisarias](#org9ba1d9f)
+  - [Comisaría 1](#org079cac8)
+  - [Comisaría 3](#orgf61f6e7)
+- [carta](#org7a49181)
+- [Traducciones](#orgd177b64)
+- [Pedidos publicos de informacion](#orgc5a5f54)
 
-- [<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-08-16 Wed&gt; </span></span> Renuion #5](#orge447d03)
-  - [Participantes](#orga610114)
-    - [Ricardo Bernaza, Sindacto](#orge08c20b)
-    - [Caro fernando matagalan](#org710dd7d)
-    - [vale buyatti tangotica](#org6cdab6c)
-    - [juan otero, musico](#orgb99a424)
-    - [adrian moranchel, cantante](#org1494157)
-    - [gustavo persona, milonguero](#org597acd8)
-    - [rochy milonguero](#orge571b52)
-    - [oscar, tango critico](#org9d4e099)
-    - [mariela](#org2122db5)
-    - [estela, abrazarte](#org3818ef8)
-    - [marcelo botarro, tangotica](#org873dcca)
-    - [amancay sal, entregamba](#org7f2a65c)
-    - [fabian musico,](#orga63a6f3)
-    - [sebastian fernandez, milonguero](#org55734a5)
-    - [atilio, la nacional](#org95e6137)
-    - [chili muy lunes](#orgd7afc5d)
-    - [china, suecia](#org44b4b3d)
-  - [charla](#orge102582)
-    - [evento del 18](#org6d086a1)
-    - [compromisos](#org57edb27)
-- [<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-08-09 Wed&gt; </span></span> Reunion #4](#org76a15bb)
-  - [estado de situacion](#org590204c)
-    - [remeras estan siendo estampadas](#orge7c794c)
-    - [volantes con convactoria para el 18](#org70c7511)
-    - [milonga 18](#orgf689467)
-    - [AOM](#org12d8ed2)
-    - [Comunicaciones](#org07d3bff)
-  - [charla](#orgc8d40d1)
-    - [casa de tucuman](#orgf05d9ef)
-    - [teatro de la comedia](#org82c9854)
-    - [pedido de informacion publico](#org1a3c05f)
-    - [situaciones](#orge903beb)
-    - [milongas del mundial](#org5c9bc5b)
-    - [cobertura](#orgfa7576c)
-    - [orquestas](#org5db45ee)
-    - [acciones](#org8d3c1ae)
-- [<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-08-02 Wed&gt; </span></span> Reunion #3](#org7653905)
-  - [presentaciones](#org864b2f0)
-    - [Pablo Rodriguez, Ines Musopapa, Sindicato de Tango Danza](#org2365c74)
-    - [Oscar Stumpfs Tango Critico](#orgf26edbd)
-  - [charla](#orgfaf3bdb)
-    - [banderas en lobas](#org95b113c)
-    - [ronda clasificatoria](#org382eb06)
-    - [calendario compartido](#orge0be9f3)
-    - [documental](#orgf2a1cd7)
-    - [agenda](#orgac03852)
-    - [remeras](#orgaf4d500)
-    - [banner](#org0ae4157)
-    - [documentos compartidos](#org9873b35)
-    - [video](#org48ee116)
-    - [comunicacion](#org9818baa)
-    - [accion](#org95f3124)
-    - [prensa](#orgea2df30)
-    - [programa oficial](#org7d4100d)
-    - [AOM](#orga81f983)
-    - [convocatorias](#org826ed06)
-    - [compras](#orga3445b7)
-    - [max](#orgfe12458)
-    - [oscar](#orgf085c8e)
-    - [kanes](#orgef5f04b)
-    - [sol perez](#org6ab355b)
-- [<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-07-27 Thu&gt; </span></span> Reunion #2](#org8eefc3f)
-  - [presentes](#org6d7d597)
-    - [Taiwan, Tango Marathon (Mas grande en Asia), yutan, yushan](#org10e35bb)
-    - [Katia, Documental Tango Queer](#orgea4c5d8)
-    - [Maria Chinicci, Jueves de Ana Postigo](#org84e23de)
-    - [Oscar](#org0b836e0)
-    - [Andres Valenzuela, Pagina 12](#org2ee724c)
-  - [acciones](#orgdc273bd)
-    - [remeras](#org53354b4)
-    - [marcha](#org26b99ed)
-    - [FA CAFF](#org09f5c7e)
-  - [charla](#org9ba1760)
-    - [acciones](#orgd829974)
-    - [argumentos](#org67efc2e)
-    - [ley de fomento](#org0f59039)
-    - [clausuras](#orgaf94330)
-    - [guia anticlausra](#org8994594)
-    - [control ciudadano de las clausuras](#org845a6df)
-    - [reglamentacion de la ley](#org9dc0a38)
-    - [acciones especificas](#orge0f4b78)
-    - [evento para prensa](#org985e88e)
-    - [reclamos de orgas compañeras](#org0d30a92)
-    - [congreso nacional de tango](#orgb11f208)
-    - [milongas que no estan en el mundial](#org3644c16)
-    - [acciones publicas](#org4f1fb0f)
-    - [acciones en milongas](#org8cb3dd2)
-    - [adhesiones y traducciones](#orgd98df11)
-    - [comunicacion con medios y lanzamiento](#orge18498f)
-    - [marcha del tango](#orgbc6c626)
-    - [milonga publica en la final](#orgc4292e0)
-    - [recorrido y fecha de la marcha](#org12aad6e)
-    - [murgas](#org64d2c59)
-    - [operar milongas del mundial](#org2307985)
-    - [milonga en el obelisco](#org5660f64)
-    - [UNESCO/ONU](#orgba8f478)
-    - [volantear en entrega de entradas](#orga86ee26)
-    - [definiendo agenda](#org391ef5c)
-  - [agenda](#orga4401c0)
-    - [5 de agosto nos juntamos en el CC lobas para hacer la grafica](#org3b67a8a)
-    - [6 de agosto juntada en los techos azules](#orgd4d33f0)
-    - [viernes 11, intervención el a usina](#org4ae0423)
-    - [viernes 18, juntada en el obelisco con marcha](#orgccbe8d4)
-    - [21 de agosto, entrega de entradas](#org11953e5)
-    - [23 de agosto milonga flash en la salida del luna park](#org5293ada)
-  - [volantes](#org7304f80)
-  - [medios](#orgd87fe31)
-    - [pagina 12 andres valenzuela](#orgd550d6a)
-- [<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-07-19 Wed&gt; </span></span> Reunion #1](#org04f4814)
-  - [Presentaciones](#org8b20316)
-    - [Lucia Condes, UNA](#org0b95a28)
-    - [Ricardo Cuyul Dieu, Jose Luis Rodriguez, UNA](#org178aac1)
-    - [nadia, construyendo cultura, legislatura (asesora)](#org1d8f7ed)
-    - [Valerie Gros](#org366f0c4)
-    - [Fabian, Músico](#orgbb927e2)
-    - [Valeria Buyatti: tangotica, 2x3](#org2eb37a1)
-    - [Amancay Sal: Milonga Entre Gambas](#org111f933)
-    - [Ernan Morel: antropologo, docente/conicet](#orgfa78992)
-    - [Ruben Sola, yuko: Colabora con varias milongas](#orgddc5e51)
-    - [Nando: milonga la dicepolo](#org8d662d3)
-    - [Martin Chili: Muy Lunes](#orgf5e6bbe)
-    - [Klara Wolf: placita del pañuelo blanco](#org7fc66e4)
-    - [Indio: placita del pañuelo blanco](#org5d94c12)
-    - [luciana miguel](#org69f198d)
-    - [pablo martillana, construyendo cultura](#org06ed566)
-  - [Agenda](#org9b294c5)
-    - [Plan de Lucha durante el Mundial](#orgcd75f2e)
-    - [Proyectos Amigos](#orgb8b2f11)
-  - [Conversatorio](#orgcb1e7bd)
-  - [acciones](#orgfd4e848)
-    - [participar a la seleccion con vestuario](#orgf423630)
-    - [ir con pancartas a las sedes del mundial](#org3bd0eb7)
-    - [volante conjunto, kit grafico](#orgddccb33)
-    - [banners](#org438d97b)
-    - [cantito](#org1ecc168)
-  - [Acciones activas](#org1557a6a)
-    - [marco para fotos tanguero #etnsc, amancay](#orgb699a91)
-    - [hacer un documento conjunto, indo](#orgafb4a16)
-    - [marcha del tango, indio](#orgd7922ea)
-    - [una milonga del tango no se clausura, dolores, niv](#org584b884)
-    - [banner de #ETNSC, chili](#orgf2a7d41)
-    - [banderas en la calle, indio](#orgc23120e)
-    - [funcion de la compañia de la UNA, ricardo, lucia](#orgc607767)
-    - [FACAFF, amancay, kayne](#org0f53a29)
-    - [milongas publicas, indio](#org4554d6f)
-    - [actividades en milongas](#org1aee605)
-    - [Remeras, amancay, valeria buyatti](#orgb69dc91)
-    - [Trapo de color para identificar, ricardo](#org3c9df63)
-    - [Globos, dolores,](#org99cda92)
-    - [video con cartel, chili](#orgecf9b2a)
-  - [Medios](#org4a3301e)
-    - [radio grafica, amancay](#org91bf5ae)
-    - [fm laboca, fm riachuela, amancay](#org8b3c875)
-    - [hamartia, niv](#org85ff3ab)
-    - [emergentes, niv](#org2f9bbc3)
-    - [apu, niv](#org10846dc)
-    - [diario popular, kayne](#orgdd26fd2)
-    - [radio nacional, lucia](#org9d5ddb9)
-    - [radio unla, valeria buyatti](#org7c982ce)
-    - [tangauta, luciana](#orgb63c3f3)
-  - [quien mas](#orgfb30893)
-  - [reclamos](#org0af914b)
-    - [ley 878 (habilitaciones irrealistas)](#orgb17b8c4)
-    - [una sola ley declarativa, no reglamentada](#org29922a4)
-    - [de las 6 milongas relevadas por la unesco 3 ya no existen](#orgbead59f)
-    - [tarifazos y despidos](#org6c52fd8)
-  - [formularios](#orgcb1229c)
-    - [acciones](#org2281177)
-    - [adhesiones](#orge748807)
-- [<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-07-05 Wed&gt; </span></span> Reunion #0](#orgef449bf)
-  - [Presentaciones](#orgd08c339)
-    - [Pedro Galindo: la casa de teresa](#org9a877c2)
-    - [Valeria Scheidegger: techos azules](#orgea2b728)
-    - [Valeria Buyatti: tangotica, 2x3](#org102b477)
-    - [Indio: placita del pañuelo blanco](#orgaedf10e)
-    - [Julieta Lopinto](#org53ee8ba)
-    - [Amancay Sal:](#orgceb3170)
-    - [hernan david](#orgfbc75c5)
-    - [Valerie Gros](#orgf518350)
-    - [Sebastian Fernandez](#org6f94c4a)
-    - [Helena](#org3832b91)
-    - [Wanda Vinilo, Manzana de las luces](#org61952a5)
-    - [sabrina darowski](#org0d838c9)
-    - [Jean Paul, Maria Angeles Martinez, Practica Patricios, CC lobas](#org8e091fa)
-    - [Gustavo Duran](#orge7463e7)
-  - [abogados culturales](#org646909c)
-  - [Conversatorio](#orga0da0a1)
-    - [Sobre el Fondo Metropolitano de las Artes](#org04096be)
-    - [Milongas Públicas](#orge6de5f5)
-    - [Otras Lineas](#orgd313400)
-    - [Clausuras](#org7adeb8a)
-    - [Abogados Culturales](#orga529308)
-    - [Reglamentación de la Ley de Fomento a la Milonga](#orgc93c35d)
-    - [Personaria Juridica](#org619d1fa)
-    - [Cooperativas](#org88f59ff)
-    - [Organizar la lucha](#org9b18d9e)
-    - [Mundial de Tango](#orgf550cce)
-    - [Agenda de la Proxima Reunion #ETNSC: Plan de Lucha](#org8611ed7)
-    - [Milongas Sociales/#ETNSC](#orgfcd381f)
-    - [Subsidio/Subsidios](#orgda847b2)
-    - [Modelos Organizativos](#org4113640)
-    - [Casa de Teresa](#org96e57c5)
-    - [Detalles Tecnicos del Subsidio](#org43317e3)
-- [Traducciones](#orgef57abc)
-- [Pedidos publicos de informacion](#org9cfa3db)
+Links
+
+| Declaracion + Traducciones | <https://docs.google.com/document/d/1LHbQUb5RGl0UDhey1Ps3Il2DLJD8HTxKMooJHLA21XQ/edit>                   |
+| Unesco                     | <https://docs.google.com/document/d/1C6vHAqFngc7Wx73imbnyWgB-PW4o5qQVihprkl6X--E/edit>                   |
+| Registro de clausuras      | <https://docs.google.com/spreadsheets/d/1a0Diyjq8RfHvLb9yU0NntG8buoN2JNM_EZmMkbuA0rg/edit#gid=745580568> |
+| Plata                      | <https://docs.google.com/spreadsheets/d/1NHV-gHLYPuzPMcMEa30V46k0kB4C7p6IaToRsEZ1qOg/edit#gid=0>         |
+| Grafica                    | <https://github.com/tangonoclausura/kit-grafico>                                                         |
+| Objetivos especificos      | <https://docs.google.com/document/d/1BgTTJgUE0RxezFprOfjzvdGpOatO4vw97667zPAToE0/edit?usp=sharing>       |
+| Banners                    | <https://docs.google.com/spreadsheets/d/1YcCjbOT9BPMG0I9U0zilgNJMiJm3X8IcytgbZMzo2-k/edit#gid=0>         |
+| Remeras                    | <https://docs.google.com/spreadsheets/d/1N1uDIPiJxvbHpibr8fTQHAlasl3Sd7je2bDE-ll0Uw4/edit?usp=sharing>   |
+| Milonga 18                 | <https://docs.google.com/document/d/1JcYg0ARB8yoYr_jeHhYrLuQy-2WluiF0EdUCn-S1Ck4/edit?usp=sharing>       |
 
 
-<a id="orge447d03"></a>
+<a id="orgaa59f1f"></a>
+
+# <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-08-30 Wed&gt; </span></span> Reunion #6
+
+-   **caro**: a nosotros nos costo un monton meternos
+
+y no es que es solo para centros culturales, o milonga, estan las fabricas tambien es una locura
+
+-   **dolo**: tiene un nivel de especificidad ferroz
+
+en el luna, estuvimos en contacto con las respuestas existe un % que piensa que «hay que hacer las cosas bien»
+
+-   **niv**: igual rapidamente los moves
+-   **dolo**: la faja de clausura tiene una vision social positiva.
+
+«se clausuro porque se hizo algo mal»
+
+-   **jp**: algunos lo comparan con cromañon
+-   **dolo**: a demas cromañon podía estar habilitado
+-   **jp**: los planos no correspondian
+-   **dolo**: efectivamente, el problema es que habia un candado en la cuerta
+
+cochabamba, por esa puertita no salen
+
+-   **maria**: hay 386 clausuras
+-   **dolo**: hay mas
+
+hay que visibilizar porque es una estupidez las clausuras la nueva ley de centros culturales es bastante mas simple
+
+-   **niv**: tener las actas nos sirve
+-   **dolo**: tenemos que saber las clausuras que succeden en el colectivo.
+-   **caro**: a nosotros nos cierran por obstruccion
+-   **dolo**: la leonesa se clausuro porque habia que renovar firma
+
+necesitamos generar contenido el numero no sirve como esta
+
+-   **caro**: para que vamos a estar presentes
+-   **dolo**: mediar, grabar, comunicar
+-   **caro**: nosotros nos educamos como podemos pero no llegamos
+
+hay un monton de clausuras que no se van a poder frenar
+
+-   **jp**: hay que ver otros espacios
+-   **niv**: reforcemos los espacios existentes
+-   **fabian**: tenemos que prevenir las clausuras
+-   **marie**: yo estuve en muy lunes, intentaron clausurar, y les contestaron todo.
+
+yo les saque información como civil la muchacha de la barra tenia info y desarmo 5-6 elementos de clausura
+
+-   **jp**: en el mandril confrontaron y los clausuraron
+-   **marie**: la chica nunca confronto
+
+muy tranquila por ahi el respaldo ayuda
+
+-   **jp**: en los laureles tenemos 50 inspecciones
+-   **dolo**: no se a quien le interesa estar habilitado solo como milonga
+-   **fabian**: quiero volver a dibujar la banderas.
+-   **marie**: cerremos el tema actual
+
+se me ocurre que estaria bueno:
+
+-   hacer un sondeo
+-   generar un documento corto con respuesas a preguntas tipicas
+-   la gente pregunta « ¿ Como puedo ayudar ? »
+    -   necesitan informarse
+    -   dar megusta a la pagina
+    -   sumar fuerza para reclamos
+
+necesitamos asegurarnos que la gente hable en las milongas, siempre. la lista de pendientes es enorme si cada uno se compromete a hablar con un organizador y que cada uno se comprometa a registrar lo que paso en un lugar si lo podemos
+
+necesitamos generar que la gente pueda colaborar necesitamos un discurso uniforme la primera es la declaración
+
+-   **muchos te dicen**: veni a la milonga a hablar
+-   **niv**: necesitamos que hablen cada dia
+-   **amancay**: yo lo hice
+-   **marie**: todos necesitamos ayudar con el discurso, y revertir el discurso,
+    -   podras hablar vos ?
+    -   podras imprimirte vos la bandera ?
+    -   podras acercarte a otro espacio que vas siempre y hablar del tema ?
+
+-   **indio**: a que se llego ?
+-   **marie**: hay 2 cosas ahi
+    -   necesitamos mas firmas
+
+el viernes pasado de 200 personas habia solo 10 que sabian.
+
+en el faro tuve que militarlo desde abajo hay una parte que tiene que seguir fluyendo
+
+-   **indio**: las luchas tienen un proceso de crecimiento
+
+para mi fue el obelisco hay que aprovecharlo esa energia hay que usarla ahora larreta los mando
+
+-   **marie**: paralelamente hablamos con diputados de la legislatura
+
+es dificil confrontar diputados del pro la persona que me contacto con esa parte de diputados por gente con quien hable
+
+-   **indio**: otra posibilidad es ir a la jefatura, cultura, legislatura, otra es
+
+la unesco
+
+-   **dolo**: en esa mesa nosotros no tenemos nada que hacer como colectivo
+
+-   **marie**: tenemos que unir
+
+y esto no tiene que desvirtuarse
+
+-   **jp**: la gente que apoya al pro no va a estar
+
+-   **amancay**: el colectivo es apartidario
+
+hay que seguir haciendo las manifestaciones
+
+-   **marie**: yo no soy de ningun partido
+-   **la gente del FIT me dijo**: puedo presionar en la legislatura
+
+estas cosas necesitan instituciones que efectivicen su reclamo
+
+-   **indio**: cual es el miedo de juntarse
+-   **dolo**: no hay miedo
+
+pero nosotro presionamos desde afuera
+
+-   **wanda**: estan hablando de una mesa donde se esta debatiendo la ley
+-   **dolo**: la ley de fomento, es la mesa de reglamentacion
+
+ruth aom milonga sociales parque patricios
+
+-   **wanda**: pregunto porque no vamos a la mesa
+-   **indio**: cuando se cierran los espacios tenomos que estar todos
+
+-   **dolo**: lo que se hablo es que no circula bien la información a dentro del
+
+colectivo
+
+-   **oscar**: desde el colectivo necesitamos generar una herramienta para evitar
+
+clausuras
+
+-   **fabian**: estabamos hablando de eso
+
+-   **oscar**: sera mas facil para el organizador cundo tengamos la herramienta
+
+-   **dolo**: tenemos que tener un recursero
+
+-   **indo**: la aom tiene herramientas
+
+-   **caro**: que podemos hacer frente a una clausura ?
+
+-   **dolo**: no somos un comando anti clausura
+
+-   **caro**: existe en la fantasia
+
+-   **fabian**: la caja de herramienta que tiene que tener adentro ?
+
+-   **marie**: vengo con una lista de cosas que nos pueden ordenar
+    -   yo ayudo con baners y milongas
+    -   necesitamos que cada milonga se genere su propio material
+    -   activamos el tema de las remeras
+    -   compren remeras
+    -   que proxima actividad vamos a hacer para reunir a todos
+    -   la unesco tiene sede en uruguay
+    -   informacion sobre clausuras
+    -   generar un documento de respuestas
+    -   ideas concretas
+
+
+<a id="org92c5a26"></a>
 
 # <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-08-16 Wed&gt; </span></span> Renuion #5
 
 
-<a id="orga610114"></a>
+<a id="orgf60a0db"></a>
 
 ## Participantes
 
 
-<a id="orge08c20b"></a>
+<a id="org801e15b"></a>
 
 ### Ricardo Bernaza, Sindacto
 
 
-<a id="org710dd7d"></a>
+<a id="org73a7312"></a>
 
 ### Caro fernando matagalan
 
 
-<a id="org6cdab6c"></a>
+<a id="org9db198e"></a>
 
 ### vale buyatti tangotica
 
 
-<a id="orgb99a424"></a>
+<a id="org080088d"></a>
 
 ### juan otero, musico
 
 
-<a id="org1494157"></a>
+<a id="org3034bc7"></a>
 
 ### adrian moranchel, cantante
 
 
-<a id="org597acd8"></a>
+<a id="org5b4e961"></a>
 
 ### gustavo persona, milonguero
 
 
-<a id="orge571b52"></a>
+<a id="org522e554"></a>
 
 ### rochy milonguero
 
 
-<a id="org9d4e099"></a>
+<a id="orga1e8a51"></a>
 
 ### oscar, tango critico
 
 
-<a id="org2122db5"></a>
+<a id="org6be8f34"></a>
 
 ### mariela
 
 
-<a id="org3818ef8"></a>
+<a id="org84ec402"></a>
 
 ### estela, abrazarte
 
 
-<a id="org873dcca"></a>
+<a id="orga9f484a"></a>
 
 ### marcelo botarro, tangotica
 
 
-<a id="org7f2a65c"></a>
+<a id="org6ac914f"></a>
 
 ### amancay sal, entregamba
 
 
-<a id="orga63a6f3"></a>
+<a id="org55fbf1f"></a>
 
 ### fabian musico,
 
 
-<a id="org55734a5"></a>
+<a id="orgc2dafef"></a>
 
 ### sebastian fernandez, milonguero
 
 
-<a id="org95e6137"></a>
+<a id="orge357cdf"></a>
 
 ### atilio, la nacional
 
 
-<a id="orgd7afc5d"></a>
+<a id="orgbfa8744"></a>
 
 ### chili muy lunes
 
 
-<a id="org44b4b3d"></a>
+<a id="org41a22d3"></a>
 
 ### china, suecia
 
 
-<a id="orge102582"></a>
+<a id="org9c3126e"></a>
 
 ## charla
 
 botaro: en la ley hay un pedido de normalizacion de las clausuras. en la fundamentacion de la ley quien tendria que reglamentar es el ministerio de la cultura de la ciudad // julio basan con abogados culturales empujo un marco normativo para la reglamentacion fue julio duplaa las milongas sociales estan en proceso de formacion concenso a partir de la reglamentacion de la ley. la parte de habilitaciones quedo en la nada dolores: julio basan me dijo que la reglamentacion no contempla nada de habilitaciones y clausuras botaro: la ley de 2005 contempla lo de habilitaciones dolores: hay que reglamentar el conjunto de reglas, para regular las clausuras ricardo: adherimos pero veamos como trabajamos a futuro nosotros siempre que pedimos una reunion nos recibieron buyatti: ellos se reunieron diego alvarez saez, dir de legal y tecnicas botaro: cuando hablamos de clausuras no nos dijeron nada ricardo: nosotros ya tenemos el problema resuelto el ministro nunca escucho hablar de las milongas cultura habre la puerta y despues hablan con la AGC dolores: tomamos tu telefono y armemos el contacto directo ricardo: las reglas claras estan pero son incumplibles tenes que modificar leyes y codigos de fondos, contravensional, de edificaciones,… es un tema muy complejo dolores: el conjunto legislativo es solo de recaudacion (multa coimas) los permisos de baile son ridiculos oscar: hay una intencionalidad niv: alianzas entre los sectores refuerzan todos los sectores dolores: nostros vemos que las politicas culturales son las mismas que el estado no sea una maquina de impedir.
 
 
-<a id="org6d086a1"></a>
+<a id="org52a0c19"></a>
 
 ### evento del 18
 
 -   la UNA se bajo
 -   venimos organizando max, dolores, emi, tom, niv
 -   piano de la hoguera
--   buscamos piano electrico por si falla
 -   tenemos 1400W de sonido asegurado
 -   pedimos que los musicalizadores centralicen la musica
 -   vamos a tener que comprimir todo
@@ -345,13 +527,25 @@ botaro: en la ley hay un pedido de normalizacion de las clausuras. en la fundame
 -   3 orquestas tocan (negro cejas, hoguera, trampera)
 -   comunicacion: telesur
 -   comunicacion: juan guerri: atilo habla
--   necesitamos un espacio para los artistas: max lleva tablas y caballetes
--   necesitamos un lugar de deposito: necesitamos una carpa
 -   un rollo de cinta de papel: oscar
--   necesitamos sillas: 8
--   necesitamos 4 microfonos
--   necesitamos 5 girafas
--   necesitamos luces
+-   necesitamos un espacio para los artistas: max lleva tablas y caballetes
+-   necesitamos 8 sillas (andrea diaz lleva 6 taburetes, julian corach lleva
+    1.
+-   necesitamos una carpa, lugar de deposito (resuelto por el bar)
+
+URGENTE
+
+-   piano electrico
+
+NO TAN URGENTE
+
+-   1 microfonos
+-   2 girafas
+
+ESTARIA BUENO PERO…
+
+-   luces
+
 -   orquestas tienen que tocar 25 mins, 5 y un bis
 -   performance de la cinta
 -   todos los carteles que quieran
@@ -359,38 +553,38 @@ botaro: en la ley hay un pedido de normalizacion de las clausuras. en la fundame
 chili: necesitamos gente repartiendo volante y comunicando
 
 
-<a id="org57edb27"></a>
+<a id="orgb69ecc0"></a>
 
 ### compromisos
 
-gustavo: vender remeras 17h-23h max, kane, niv, fabian: sonido 17h-00h ruben: 17h-00h oscar: cinta de papel 16h30-00h estela: 18h-23h katjee, china: 17h-00h joi: 19h-00h
+gustavo: vender remeras 17h-23h max, kane, niv, fabian: sonido 17h-00h ruben: 17h-00h oscar: cinta de papel 16h30-00h estela: 18h-23h katjee, china: 17h-00h joi: 19h-00h andrea diaz: taburetes 17h-00h
 
 
-<a id="org76a15bb"></a>
+<a id="org5193491"></a>
 
 # <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-08-09 Wed&gt; </span></span> Reunion #4
 
 
-<a id="org590204c"></a>
+<a id="orga109f58"></a>
 
 ## estado de situacion
 
 
-<a id="orge7c794c"></a>
+<a id="orgda327b4"></a>
 
 ### remeras estan siendo estampadas
 
 para el viernes
 
 
-<a id="org70c7511"></a>
+<a id="org4915af8"></a>
 
 ### volantes con convactoria para el 18
 
 para el viernes
 
 
-<a id="orgf689467"></a>
+<a id="org78ea388"></a>
 
 ### milonga 18
 
@@ -405,21 +599,21 @@ para el viernes
     quien habla ? que se dice ?
 
 
-<a id="org12d8ed2"></a>
+<a id="orgeba1c89"></a>
 
 ### AOM
 
 adhiere comento en canning
 
 
-<a id="org07d3bff"></a>
+<a id="org4bd22fd"></a>
 
 ### Comunicaciones
 
 muy importante no criticar el gobierno pero las politicas
 
 
-<a id="orgc8d40d1"></a>
+<a id="orgef95cc7"></a>
 
 ## charla
 
@@ -428,56 +622,56 @@ chili: MOCION: este colectivo tiene que estar vehiculado por civiles. necesidad 
 dolores: el marco es la declaracion
 
 
-<a id="orgf05d9ef"></a>
+<a id="orgfebd328"></a>
 
 ### casa de tucuman
 
 niv: ofrecen la casa de tucuman para el colectivo dolores: para ahi es importante tener las peticiones de los colectivos especificos.
 
 
-<a id="org82c9854"></a>
+<a id="org53c0e2f"></a>
 
 ### teatro de la comedia
 
 dolores
 
 
-<a id="org1a3c05f"></a>
+<a id="org8ecdf9d"></a>
 
 ### pedido de informacion publico
 
 niv: necesitamos hacerlo todos ruth: donde va la plata de la UNESCO
 
 
-<a id="orge903beb"></a>
+<a id="orgb5547f7"></a>
 
 ### situaciones
 
 pablo: que pasa con sunderland ? dolores: tenia 78 clausuras y como tiene 3 dueños, niv: en francia podes tener un castillo pero tenes que hacerte cargo. dolores: el circulo de tesera resuleve el problema de las habilitaciones. tana: es bastante facil, porque te sumas cuando compras la entrada. dolores: esto no nos soluciona el problema, porque necesitamos mover el problema al gobierno.
 
 
-<a id="org5c9bc5b"></a>
+<a id="org0c36884"></a>
 
 ### milongas del mundial
 
 dolores: este viernes, sabado y domingo, 19-23h hay milonga en el mundial tenemos las remeras el viernas.
 
 
-<a id="orgfa7576c"></a>
+<a id="orge6907e7"></a>
 
 ### cobertura
 
 niv tiene que hablar con telesur
 
 
-<a id="org5db45ee"></a>
+<a id="org396957b"></a>
 
 ### orquestas
 
 chili tiene que hablar con luigi
 
 
-<a id="org8d3c1ae"></a>
+<a id="org9bb8b09"></a>
 
 ### acciones
 
@@ -486,17 +680,17 @@ domingo hay elecciones viernes va a haber poca gente sabado puede ser una buena 
 cronograma de acciones particulares chili: todos tienen que invitar a todos sus amigos TODO: subir link a album con fotos y traducciones
 
 
-<a id="org7653905"></a>
+<a id="org2a7c0ff"></a>
 
 # <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-08-02 Wed&gt; </span></span> Reunion #3
 
 
-<a id="org864b2f0"></a>
+<a id="org3f72ec1"></a>
 
 ## presentaciones
 
 
-<a id="org2365c74"></a>
+<a id="org4c56d14"></a>
 
 ### Pablo Rodriguez, Ines Musopapa, Sindicato de Tango Danza
 
@@ -505,12 +699,12 @@ existe una assoc civil (Dupla) AMTA
 -   situaciones gremiales
 
 
-<a id="orgf26edbd"></a>
+<a id="org2503fc1"></a>
 
 ### Oscar Stumpfs Tango Critico
 
 
-<a id="orgfaf3bdb"></a>
+<a id="org51f4201"></a>
 
 ## charla
 
@@ -535,7 +729,7 @@ nadia (asistente de andrea conde) dijo que esto no se podia trabajar en la regla
 tango sea parte del dialogo, para poder hacer modificaciones en las ley de habilitaciones, fomento y adjudicación. e invitar la gente a bailar tango.
 
 
-<a id="org95b113c"></a>
+<a id="orgf7b764e"></a>
 
 ### banderas en lobas
 
@@ -547,7 +741,7 @@ practica igual lo podemos correr vamos a tener que abrir la casa mas temprano, c
 -   **dolores**: parte de la idea era juntarnos para no pisarnos.
 
 
-<a id="org382eb06"></a>
+<a id="org8d1749d"></a>
 
 ### ronda clasificatoria
 
@@ -556,7 +750,7 @@ practica igual lo podemos correr vamos a tener que abrir la casa mas temprano, c
 muy poca gente se anoto
 
 
-<a id="orge0be9f3"></a>
+<a id="orgfdd7408"></a>
 
 ### calendario compartido
 
@@ -565,7 +759,7 @@ muy poca gente se anoto
 tango no es visible
 
 
-<a id="orgf2a1cd7"></a>
+<a id="org37076e3"></a>
 
 ### documental
 
@@ -580,7 +774,7 @@ a ser las milongas queremos filmar en las acciones
 -   **ruth**: tenemos derecho a verlo editado.
 
 
-<a id="orgac03852"></a>
+<a id="org7975e15"></a>
 
 ### agenda
 
@@ -610,7 +804,7 @@ no amplificado
 -   **sol2**: con tema de orquesta consigo la gente de la EMPA
 
 
-<a id="orgaf4d500"></a>
+<a id="orgdaadd90"></a>
 
 ### remeras
 
@@ -620,7 +814,7 @@ no amplificado
 que tengamos una lista de plata que la gente se compromete a meter
 
 
-<a id="org0ae4157"></a>
+<a id="orgc3341f8"></a>
 
 ### banner
 
@@ -630,7 +824,7 @@ que tengamos una lista de plata que la gente se compromete a meter
 -   **pablo**: los anuncios en la milonga hay que ser muy claro.
 
 
-<a id="org9873b35"></a>
+<a id="orge5d2420"></a>
 
 ### documentos compartidos
 
@@ -639,7 +833,7 @@ que tengamos una lista de plata que la gente se compromete a meter
 -   **niv**: es importante que cresca para ser un proyecto de ley en algun momento.
 
 
-<a id="org48ee116"></a>
+<a id="org8576071"></a>
 
 ### video
 
@@ -652,7 +846,7 @@ la cultura.
 que cada uno tenga alguna frase que sirve.
 
 
-<a id="org9818baa"></a>
+<a id="org748a8ad"></a>
 
 ### comunicacion
 
@@ -666,7 +860,7 @@ sirve porque no le pega a macri centralmente
 -   **doleres**: si podemos criticar en el documento especifico
 
 
-<a id="org95f3124"></a>
+<a id="org10573a4"></a>
 
 ### accion
 
@@ -684,7 +878,7 @@ abajo del escenario no tenes luz
 -   **caro**: las remeras sirven en el semaforo tambien
 
 
-<a id="orgea2df30"></a>
+<a id="org0008085"></a>
 
 ### prensa
 
@@ -695,14 +889,14 @@ del 23
 -   **caro**: nuestra idea es llegar a los milongueros. y esto tiene mas fuerza.
 
 
-<a id="org7d4100d"></a>
+<a id="org2463c95"></a>
 
 ### programa oficial
 
 milonga de la AOM: dolores milonga de la amta
 
 
-<a id="orga81f983"></a>
+<a id="org5de406b"></a>
 
 ### AOM
 
@@ -712,7 +906,7 @@ milonga de la AOM: dolores milonga de la amta
 -   **dolores**: hay que hablar con ellos
 
 
-<a id="org826ed06"></a>
+<a id="orgd3a8c14"></a>
 
 ### convocatorias
 
@@ -720,21 +914,21 @@ milonga de la AOM: dolores milonga de la amta
 -   **tana**: pedir a nacho entradas de final
 
 
-<a id="orga3445b7"></a>
+<a id="org7109f9b"></a>
 
 ### compras
 
 dolo va a once el viernes y se la lleva a luis el viernes mismo dolo deja telas y pinturas a marta max pasa datos de tipos pinturas y materiales
 
 
-<a id="orgfe12458"></a>
+<a id="orgd2d0e96"></a>
 
 ### max
 
 max consigue un lugar para hacer la milonga propone hacer teatro/performance para mover en las milongas
 
 
-<a id="orgf085c8e"></a>
+<a id="org58cbbc0"></a>
 
 ### oscar
 
@@ -743,61 +937,61 @@ intervenir espacios publicos bailando hay un paseo del tango, hay varios playone
 -   **ruth**: se puede hacer despues del mundial
 
 
-<a id="orgef5f04b"></a>
+<a id="org17b998a"></a>
 
 ### kanes
 
 la catedral esta disponible
 
 
-<a id="org6ab355b"></a>
+<a id="orgd29f5a9"></a>
 
 ### sol perez
 
 contacto una audiovisual
 
 
-<a id="org8eefc3f"></a>
+<a id="org606bb2e"></a>
 
 # <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-07-27 Thu&gt; </span></span> Reunion #2
 
 
-<a id="org6d7d597"></a>
+<a id="orga59cb09"></a>
 
 ## presentes
 
 
-<a id="org10e35bb"></a>
+<a id="orgbba213f"></a>
 
 ### Taiwan, Tango Marathon (Mas grande en Asia), yutan, yushan
 
 
-<a id="orgea4c5d8"></a>
+<a id="orgb5ecdf3"></a>
 
 ### Katia, Documental Tango Queer
 
 
-<a id="org84e23de"></a>
+<a id="orgd78f7e3"></a>
 
 ### Maria Chinicci, Jueves de Ana Postigo
 
 
-<a id="org0b836e0"></a>
+<a id="org6ae2da3"></a>
 
 ### Oscar
 
 
-<a id="org2ee724c"></a>
+<a id="org566f914"></a>
 
 ### Andres Valenzuela, Pagina 12
 
 
-<a id="orgdc273bd"></a>
+<a id="orgff1eb10"></a>
 
 ## acciones
 
 
-<a id="org53354b4"></a>
+<a id="orgbea93a7"></a>
 
 ### remeras     :valeriabuyatti:
 
@@ -805,7 +999,7 @@ contacto una audiovisual
 -   averriguo en once: 55$ARS (hombres) 60$ARS (chicas)
 
 
-<a id="org26b99ed"></a>
+<a id="orga4248d2"></a>
 
 ### marcha     :valeriabuyatti:
 
@@ -813,19 +1007,19 @@ contacto una audiovisual
 -   tiene que hablar en el collectivo afro.
 
 
-<a id="org09f5c7e"></a>
+<a id="org26a739a"></a>
 
 ### FA CAFF     :diego:
 
 -   va a hablar, a priori todo ok.
 
 
-<a id="org9ba1760"></a>
+<a id="orgb6dee53"></a>
 
 ## charla
 
 
-<a id="orgd829974"></a>
+<a id="org39cc60f"></a>
 
 ### acciones
 
@@ -834,7 +1028,7 @@ contacto una audiovisual
 -   **katia**: quien organiza ?
 
 
-<a id="org67efc2e"></a>
+<a id="org65710b6"></a>
 
 ### argumentos
 
@@ -848,7 +1042,7 @@ fomento
 -   **niv**: ver con meca, abogados culturales
 
 
-<a id="org0f59039"></a>
+<a id="org7fee89e"></a>
 
 ### ley de fomento
 
@@ -869,7 +1063,7 @@ problemas con el alquiler
 -   **valebu**: las milongas al aire publico no tienen paredes pero las prohiben.
 
 
-<a id="orgaf94330"></a>
+<a id="org5c9bb1d"></a>
 
 ### clausuras
 
@@ -904,7 +1098,7 @@ actividades. las clausuras
 -   **caro**: las cosas mas comunes
 
 
-<a id="org8994594"></a>
+<a id="org998313d"></a>
 
 ### guia anticlausra
 
@@ -916,7 +1110,7 @@ actividades. las clausuras
 nosotros queremos un reclamo mas puntual el objetivo es generar presión para poder abrir una mesa de dialogo ya tenemos la ley de fomento y esta buenismo es un escalon, pero tenemos que ir adelante
 
 
-<a id="org845a6df"></a>
+<a id="org8e39c18"></a>
 
 ### control ciudadano de las clausuras
 
@@ -952,7 +1146,7 @@ camaras.
 desde diciembre del año pasado
 
 
-<a id="org9dc0a38"></a>
+<a id="org1433155"></a>
 
 ### reglamentacion de la ley
 
@@ -986,7 +1180,7 @@ el estado tiene que tener una responsabilidad
 -   **valebu**: de las milongas sociales
 
 
-<a id="orge0f4b78"></a>
+<a id="org4251337"></a>
 
 ### acciones especificas
 
@@ -1011,7 +1205,7 @@ tenemos que tener las actividades particulares de cada milonga acciones en conju
 -   **niv**: medios (listas)
 
 
-<a id="org985e88e"></a>
+<a id="org65595f9"></a>
 
 ### evento para prensa
 
@@ -1026,7 +1220,7 @@ el 10 de agosto empieza el facaff los medios van a estar hasta las bolas normalm
 -   **niv**: se hablo de hacer milongas publicas
 
 
-<a id="org0d30a92"></a>
+<a id="orgd32b8d6"></a>
 
 ### reclamos de orgas compañeras
 
@@ -1061,7 +1255,7 @@ funciona en escuela publica donde concurren 200 pibes.
 -   **dolores**: el tango se arregla
 
 
-<a id="orgb11f208"></a>
+<a id="org962bb67"></a>
 
 ### congreso nacional de tango
 
@@ -1074,7 +1268,7 @@ funciona en escuela publica donde concurren 200 pibes.
 -   **dolores**: para hacer una accion concreta
 
 
-<a id="org3644c16"></a>
+<a id="orgf69c5dd"></a>
 
 ### milongas que no estan en el mundial
 
@@ -1099,7 +1293,7 @@ clandestinamenet
 -   **wanda**: y porque pasa esto
 
 
-<a id="org4f1fb0f"></a>
+<a id="org1899600"></a>
 
 ### acciones publicas
 
@@ -1123,7 +1317,7 @@ esten todas las milongas y bombardear. tendriamos que ver quien quiere exponerse
 -   **sol**: cuales son las milongas ?
 
 
-<a id="org8cb3dd2"></a>
+<a id="orgb081cf3"></a>
 
 ### acciones en milongas
 
@@ -1159,7 +1353,7 @@ una nota de 3000 caracteres
 -   **niv**: es importante mantener el registro de clausuras.
 
 
-<a id="orgd98df11"></a>
+<a id="orgfcf63e4"></a>
 
 ### adhesiones y traducciones
 
@@ -1177,7 +1371,7 @@ una nota de 3000 caracteres
 -   **ruben**: el ingles es lo mas importante
 
 
-<a id="orge18498f"></a>
+<a id="org063ffde"></a>
 
 ### comunicacion con medios y lanzamiento
 
@@ -1190,7 +1384,7 @@ una nota de 3000 caracteres
 -   **dolores**: giremolos en ese evento y a partir de ahi podemos comunicar.
 
 
-<a id="orgbc6c626"></a>
+<a id="orge6af1b0"></a>
 
 ### marcha del tango
 
@@ -1200,7 +1394,7 @@ una nota de 3000 caracteres
 -   **dolores**: la final llena el luna park.
 
 
-<a id="orgc4292e0"></a>
+<a id="orgcb176eb"></a>
 
 ### milonga publica en la final
 
@@ -1235,7 +1429,7 @@ estuvieron una hora.
 creo, que la milonga tiene que ser agil, que se tiene que poner en media hora.
 
 
-<a id="org12aad6e"></a>
+<a id="orgbee409b"></a>
 
 ### recorrido y fecha de la marcha
 
@@ -1259,7 +1453,7 @@ gente con nuestra banderas
 -   **caro**: no te pueden negar
 
 
-<a id="org64d2c59"></a>
+<a id="org6ec2694"></a>
 
 ### murgas
 
@@ -1272,7 +1466,7 @@ si utilizamos el recurso del corte de calle que tienen ellos no nos pueden joder
 -   **valebu**: los milongueros los van a querer matar.
 
 
-<a id="org2307985"></a>
+<a id="org549c3d0"></a>
 
 ### operar milongas del mundial
 
@@ -1287,7 +1481,7 @@ si utilizamos el recurso del corte de calle que tienen ellos no nos pueden joder
 y en la final una milonga a la salida del mundial
 
 
-<a id="org5660f64"></a>
+<a id="org39043a4"></a>
 
 ### milonga en el obelisco
 
@@ -1313,7 +1507,7 @@ mas performativo
 -   **dolores**: 19—20 (21 es feriado)
 
 
-<a id="orgba8f478"></a>
+<a id="org96bc730"></a>
 
 ### UNESCO/ONU
 
@@ -1324,7 +1518,7 @@ mas performativo
 los pueblos indigenos
 
 
-<a id="orga86ee26"></a>
+<a id="orgf1a7c3c"></a>
 
 ### volantear en entrega de entradas
 
@@ -1349,7 +1543,7 @@ gente.
 -   **niv**: se podria mentir y decir que se cancelo.
 
 
-<a id="org391ef5c"></a>
+<a id="orgb6c4469"></a>
 
 ### definiendo agenda
 
@@ -1396,12 +1590,12 @@ podemos ir temprano a volantear asi a la gente que va temprano es la informo
 -   **niv**: el 6 hacemos en loba, pintada de banderas
 
 
-<a id="orga4401c0"></a>
+<a id="orgea0974d"></a>
 
 ## agenda
 
 
-<a id="org3b67a8a"></a>
+<a id="orgf26ccb0"></a>
 
 ### 5 de agosto nos juntamos en el CC lobas para hacer la grafica
 
@@ -1412,7 +1606,7 @@ dean funes 2045
 trapos, aerosol, pintura
 
 
-<a id="orgd4d33f0"></a>
+<a id="org2ae86c4"></a>
 
 ### 6 de agosto juntada en los techos azules
 
@@ -1421,14 +1615,14 @@ parque de la ciudad
 12h
 
 
-<a id="org4ae0423"></a>
+<a id="orge72a23b"></a>
 
 ### viernes 11, intervención el a usina
 
 remeras,
 
 
-<a id="orgccbe8d4"></a>
+<a id="org9d078ea"></a>
 
 ### viernes 18, juntada en el obelisco con marcha
 
@@ -1437,7 +1631,7 @@ remeras,
 sonido, camion, piso,
 
 
-<a id="org11953e5"></a>
+<a id="orga0c9e3f"></a>
 
 ### 21 de agosto, entrega de entradas
 
@@ -1446,62 +1640,62 @@ sonido, camion, piso,
 volantes
 
 
-<a id="org5293ada"></a>
+<a id="org30ca2bd"></a>
 
 ### 23 de agosto milonga flash en la salida del luna park
 
 sonido, camion, piso (auto de la practica)
 
 
-<a id="org7304f80"></a>
+<a id="org315cc40"></a>
 
 ## volantes     :dolores:
 
 valebu wanda: stickers
 
 
-<a id="orgd87fe31"></a>
+<a id="orgeed4741"></a>
 
 ## medios
 
 
-<a id="orgd550d6a"></a>
+<a id="org41e01b7"></a>
 
 ### pagina 12 andres valenzuela
 
 
-<a id="org04f4814"></a>
+<a id="org4709955"></a>
 
 # <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-07-19 Wed&gt; </span></span> Reunion #1
 
 
-<a id="org8b20316"></a>
+<a id="org76230cf"></a>
 
 ## Presentaciones
 
 
-<a id="org0b95a28"></a>
+<a id="orga48d3c3"></a>
 
 ### Lucia Condes, UNA
 
 estudiante una
 
 
-<a id="org178aac1"></a>
+<a id="org9e34ad4"></a>
 
 ### Ricardo Cuyul Dieu, Jose Luis Rodriguez, UNA
 
 centro de estudiantes de folklore agrupacion 7 de abril
 
 
-<a id="org1d8f7ed"></a>
+<a id="org3278016"></a>
 
 ### nadia, construyendo cultura, legislatura (asesora)
 
 andrea conde
 
 
-<a id="org366f0c4"></a>
+<a id="org8e6c1be"></a>
 
 ### Valerie Gros
 
@@ -1515,38 +1709,38 @@ casa natal de Troilo (Cabrera y Anchorena)
 clausurado por primera vez hace 2 años. clausurado el año pasado. intentan habilitar como centro cultural.
 
 
-<a id="orgbb927e2"></a>
+<a id="org6a6afc4"></a>
 
 ### Fabian, Músico
 
 
-<a id="org2eb37a1"></a>
+<a id="orgbc2081d"></a>
 
 ### Valeria Buyatti: tangotica, 2x3
 
 clausurado varias veces
 
 
-<a id="org111f933"></a>
+<a id="org11155b5"></a>
 
 ### Amancay Sal: Milonga Entre Gambas
 
 clausurado varias veces pero siguen abiertos en rebeldia
 
 
-<a id="orgfa78992"></a>
+<a id="org7c3982c"></a>
 
 ### Ernan Morel: antropologo, docente/conicet
 
 investiga politicas culturales y patrimoniales se interesa en tema tango/milonga y particularmente clausuras
 
 
-<a id="orgddc5e51"></a>
+<a id="org2b83491"></a>
 
 ### Ruben Sola, yuko: Colabora con varias milongas
 
 
-<a id="org8d662d3"></a>
+<a id="org7d7afff"></a>
 
 ### Nando: milonga la dicepolo
 
@@ -1555,49 +1749,49 @@ Antiguamente 'Otra Vez Carnaval', clausurada muchas veces. fue hechado por los d
 -   Varias situaciones con los dueños
 
 
-<a id="orgf5e6bbe"></a>
+<a id="org8000edd"></a>
 
 ### Martin Chili: Muy Lunes
 
 empezo en un lugar ya clausurado fue clausurado sobre lo clausurado
 
 
-<a id="org7fc66e4"></a>
+<a id="org4004703"></a>
 
 ### Klara Wolf: placita del pañuelo blanco
 
 
-<a id="org5d94c12"></a>
+<a id="org0c9bdfd"></a>
 
 ### Indio: placita del pañuelo blanco
 
 
-<a id="org69f198d"></a>
+<a id="orgdca69ca"></a>
 
 ### luciana miguel
 
 
-<a id="org06ed566"></a>
+<a id="org96f1f08"></a>
 
 ### pablo martillana, construyendo cultura
 
 
-<a id="org9b294c5"></a>
+<a id="org1100938"></a>
 
 ## Agenda
 
 
-<a id="orgcd75f2e"></a>
+<a id="org308d2de"></a>
 
 ### Plan de Lucha durante el Mundial
 
 
-<a id="orgb8b2f11"></a>
+<a id="org9e61787"></a>
 
 ### Proyectos Amigos
 
 
-<a id="orgcb1e7bd"></a>
+<a id="org4a03f93"></a>
 
 ## Conversatorio
 
@@ -1707,22 +1901,22 @@ la situacion de la milonga porteña
 -   **indio**: tenemos un espacio con las milongas de sentido social, estamos haciendo una asociación, todos los que quieran sumar estan bienvenidos queremos hacer una votación para ver quien se sienta en el espacio de la legislatura, es importante darle legitimidad a la assoc
 
 
-<a id="orgfd4e848"></a>
+<a id="org7cfa008"></a>
 
 ## acciones
 
 
-<a id="orgf423630"></a>
+<a id="orgbc1ee30"></a>
 
 ### participar a la seleccion con vestuario
 
 
-<a id="org3bd0eb7"></a>
+<a id="org4e6607d"></a>
 
 ### ir con pancartas a las sedes del mundial
 
 
-<a id="orgddccb33"></a>
+<a id="orgc16a6d0"></a>
 
 ### volante conjunto, kit grafico
 
@@ -1731,22 +1925,22 @@ la situacion de la milonga porteña
 -   calle
 
 
-<a id="org438d97b"></a>
+<a id="org011d945"></a>
 
 ### banners
 
 
-<a id="org1ecc168"></a>
+<a id="orgf7a3a52"></a>
 
 ### cantito
 
 
-<a id="org1557a6a"></a>
+<a id="org8716f3b"></a>
 
 ## Acciones activas
 
 
-<a id="orgb699a91"></a>
+<a id="orge7cadcd"></a>
 
 ### marco para fotos tanguero #etnsc, amancay
 
@@ -1756,7 +1950,7 @@ andres flores, fileteador, esqueleto/atril para exponer vamos a hacer una bander
 -   entradas (avenida de mayo)
 
 
-<a id="orgafb4a16"></a>
+<a id="orgfd94f19"></a>
 
 ### hacer un documento conjunto, indo
 
@@ -1766,56 +1960,56 @@ denunciando los problemas del tango
 -   biblioteca julian centeya
 
 
-<a id="orgd7922ea"></a>
+<a id="org658eccd"></a>
 
 ### marcha del tango, indio
 
 hacer un recorrido barrio por barrio. cierre de la marcha
 
 
-<a id="org584b884"></a>
+<a id="org12fbc5d"></a>
 
 ### una milonga del tango no se clausura, dolores, niv
 
 verdi braun bauen ?
 
 
-<a id="orgf2a7d41"></a>
+<a id="org97a91c3"></a>
 
 ### banner de #ETNSC, chili
 
 a compartir
 
 
-<a id="orgc23120e"></a>
+<a id="org6fa8e1d"></a>
 
 ### banderas en la calle, indio
 
 a compartir
 
 
-<a id="orgc607767"></a>
+<a id="org157d72d"></a>
 
 ### funcion de la compañia de la UNA, ricardo, lucia
 
 19 de agosto
 
 
-<a id="org0f53a29"></a>
+<a id="org80cd1be"></a>
 
 ### FACAFF, amancay, kayne
 
 contra festival
 
 
-<a id="org4554d6f"></a>
+<a id="org610d5f1"></a>
 
 ### milongas publicas, indio
 
 -   fila donde van a comprar
 
 
-<a id="org1aee605"></a>
+<a id="orgc9bc993"></a>
 
 ### actividades en milongas
 
@@ -1832,178 +2026,178 @@ contra festival
 6.  la catedral (miercoles) (kaynes)
 
 
-<a id="orgb69dc91"></a>
+<a id="orgf826045"></a>
 
 ### Remeras, amancay, valeria buyatti
 
 hablar con luis de la milonga de artigas que tiene estampados juntar radios viejas aerosol
 
 
-<a id="org3c9df63"></a>
+<a id="orga81cd2e"></a>
 
 ### Trapo de color para identificar, ricardo
 
 
-<a id="org99cda92"></a>
+<a id="org60d1610"></a>
 
 ### Globos, dolores,
 
 helio
 
 
-<a id="orgecf9b2a"></a>
+<a id="orgf37d8f7"></a>
 
 ### video con cartel, chili
 
 gabriel gil convocar gente de la cultura en general
 
 
-<a id="org4a3301e"></a>
+<a id="org3b80517"></a>
 
 ## Medios
 
 
-<a id="org91bf5ae"></a>
+<a id="org8910ca1"></a>
 
 ### radio grafica, amancay
 
 
-<a id="org8b3c875"></a>
+<a id="org4bcecbf"></a>
 
 ### fm laboca, fm riachuela, amancay
 
 
-<a id="org85ff3ab"></a>
+<a id="orgf40e01d"></a>
 
 ### hamartia, niv
 
 
-<a id="org2f9bbc3"></a>
+<a id="orga84422c"></a>
 
 ### emergentes, niv
 
 
-<a id="org10846dc"></a>
+<a id="orgbf8ca2a"></a>
 
 ### apu, niv
 
 
-<a id="orgdd26fd2"></a>
+<a id="orgbcdbf09"></a>
 
 ### diario popular, kayne
 
 
-<a id="org9d5ddb9"></a>
+<a id="org5d17578"></a>
 
 ### radio nacional, lucia
 
 
-<a id="org7c982ce"></a>
+<a id="orgfc6ce60"></a>
 
 ### radio unla, valeria buyatti
 
 
-<a id="orgb63c3f3"></a>
+<a id="orgfe606fb"></a>
 
 ### tangauta, luciana
 
 
-<a id="orgfb30893"></a>
+<a id="orgf6274b7"></a>
 
 ## quien mas
 
 FEA falla cetba una aom empa sindicatos de musicos el tango sera popular universidades
 
 
-<a id="org0af914b"></a>
+<a id="orgc1909e2"></a>
 
 ## reclamos
 
 
-<a id="orgb17b8c4"></a>
+<a id="orgcd62da6"></a>
 
 ### ley 878 (habilitaciones irrealistas)
 
 
-<a id="org29922a4"></a>
+<a id="org1febbec"></a>
 
 ### una sola ley declarativa, no reglamentada
 
 
-<a id="orgbead59f"></a>
+<a id="orga10be90"></a>
 
 ### de las 6 milongas relevadas por la unesco 3 ya no existen
 
 
-<a id="org6c52fd8"></a>
+<a id="org09204f4"></a>
 
 ### tarifazos y despidos
 
 
-<a id="orgcb1229c"></a>
+<a id="org6b83ca1"></a>
 
 ## formularios
 
 
-<a id="org2281177"></a>
+<a id="org82d2f37"></a>
 
 ### acciones
 
 
-<a id="orge748807"></a>
+<a id="org80ff444"></a>
 
 ### adhesiones
 
 
-<a id="orgef449bf"></a>
+<a id="orgcc0acbe"></a>
 
 # <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-07-05 Wed&gt; </span></span> Reunion #0
 
 
-<a id="orgd08c339"></a>
+<a id="org2a77eb1"></a>
 
 ## Presentaciones
 
 
-<a id="org9a877c2"></a>
+<a id="orgc3c62df"></a>
 
 ### Pedro Galindo: la casa de teresa
 
 clausurado varias veces porque es un espacio ocupado clausurado cada vez que hacen un evento grande
 
 
-<a id="orgea2b728"></a>
+<a id="orga333fa6"></a>
 
 ### Valeria Scheidegger: techos azules
 
 
-<a id="org102b477"></a>
+<a id="org9b8f859"></a>
 
 ### Valeria Buyatti: tangotica, 2x3
 
 clausurado varias veces
 
 
-<a id="orgaedf10e"></a>
+<a id="orgdb32e5a"></a>
 
 ### Indio: placita del pañuelo blanco
 
 
-<a id="org53ee8ba"></a>
+<a id="orgf4672d6"></a>
 
 ### Julieta Lopinto
 
 Espacio cultural en su casa de Villurca busca solucion legales para poder acceder a subsidios
 
 
-<a id="orgceb3170"></a>
+<a id="orgaedbed0"></a>
 
 ### Amancay Sal:
 
 clausurado varias veces pero siguen abiertos en rebeldia
 
 
-<a id="orgfbc75c5"></a>
+<a id="org163b058"></a>
 
 ### hernan david
 
@@ -2015,7 +2209,7 @@ autogestiona Macabra Cine Bar en San Telmo, no esta caratuldo
 intimados a hacer modificaciones porque no hay marco para 1 persona recitando con una guitarra primera clausura dicho por el inspector, hecha por facebook.
 
 
-<a id="orgf518350"></a>
+<a id="org88c1416"></a>
 
 ### Valerie Gros
 
@@ -2029,53 +2223,53 @@ casa natal de Troilo (Cabrera y Anchorena)
 clausurado por primera vez hace 2 años. clausurado el año pasado. intentan habilitar como centro cultural.
 
 
-<a id="org6f94c4a"></a>
+<a id="org7f443ec"></a>
 
 ### Sebastian Fernandez
 
 bailarin amateur, cercano a las chicas de la bicicleta
 
 
-<a id="org3832b91"></a>
+<a id="org2644b47"></a>
 
 ### Helena
 
 tenia un salón
 
 
-<a id="org61952a5"></a>
+<a id="org47c0422"></a>
 
 ### Wanda Vinilo, Manzana de las luces
 
 
-<a id="org0d838c9"></a>
+<a id="org8295534"></a>
 
 ### sabrina darowski
 
 
-<a id="org8e091fa"></a>
+<a id="org6da87e9"></a>
 
 ### Jean Paul, Maria Angeles Martinez, Practica Patricios, CC lobas
 
 
-<a id="orge7463e7"></a>
+<a id="orga47fa00"></a>
 
 ### Gustavo Duran
 
 
-<a id="org646909c"></a>
+<a id="org8a23a1e"></a>
 
 ## abogados culturales
 
 Lunes 19h en el Club Cultural Matienzo, Pringles 1249
 
 
-<a id="orga0da0a1"></a>
+<a id="orgb2352cf"></a>
 
 ## Conversatorio
 
 
-<a id="org04096be"></a>
+<a id="org79f1192"></a>
 
 ### Sobre el Fondo Metropolitano de las Artes
 
@@ -2086,7 +2280,7 @@ Lunes 19h en el Club Cultural Matienzo, Pringles 1249
 -   especificamente para adecuar ediliciamente a los espacios
 
 
-<a id="orge6de5f5"></a>
+<a id="orgeeb2570"></a>
 
 ### Milongas Públicas
 
@@ -2099,14 +2293,14 @@ Lunes 19h en el Club Cultural Matienzo, Pringles 1249
 -   **dolores**: espacios socio culturales permite acceder dentro de este subsidio
 
 
-<a id="orgd313400"></a>
+<a id="orgbcbad6d"></a>
 
 ### Otras Lineas
 
 -   **adriana**: hay otras lineas como 'puntos de cultura' que pueden funcionar mejor para el tema de milonga la responsabilidad de la actividad recae sobre el dueño esta linea sirve para refacciones y habilitaciones se pueden presentar tanto personas legales, cooperativas, sociedades civiles, de fomento otra categoria, de actividades socio-culturales, que estan destinados a la actividad
 
 
-<a id="org7adeb8a"></a>
+<a id="org40a2094"></a>
 
 ### Clausuras
 
@@ -2130,7 +2324,7 @@ Lunes 19h en el Club Cultural Matienzo, Pringles 1249
         1.  no
 
 
-<a id="orga529308"></a>
+<a id="org0a115ab"></a>
 
 ### Abogados Culturales
 
@@ -2141,7 +2335,7 @@ Lunes 19h en el Club Cultural Matienzo, Pringles 1249
 -   **adriana**: si, pero podemos conseguir mejoras a las lineas de subsidios si hacemos presión todos juntos
 
 
-<a id="orgc93c35d"></a>
+<a id="org2202263"></a>
 
 ### Reglamentación de la Ley de Fomento a la Milonga
 
@@ -2172,7 +2366,7 @@ Lunes 19h en el Club Cultural Matienzo, Pringles 1249
 -   **indio**: lo podemos plantear lo que nos dijo claudio (abogados culturales)
 
 
-<a id="org619d1fa"></a>
+<a id="orgb01c752"></a>
 
 ### Personaria Juridica
 
@@ -2192,7 +2386,7 @@ Lunes 19h en el Club Cultural Matienzo, Pringles 1249
 una associon.
 
 
-<a id="org88f59ff"></a>
+<a id="org214c494"></a>
 
 ### Cooperativas
 
@@ -2210,7 +2404,7 @@ formulario.
 -   **dolores**: la cooperativa solo sirve solo para un grupo. transparencia frente a la inscripcion
 
 
-<a id="org9b18d9e"></a>
+<a id="org718cfad"></a>
 
 ### Organizar la lucha
 
@@ -2225,7 +2419,7 @@ formulario.
 -   **valerie**: la lucha de verdad es que hacer ?
 
 
-<a id="orgf550cce"></a>
+<a id="org9fdf9b7"></a>
 
 ### Mundial de Tango
 
@@ -2250,7 +2444,7 @@ indio/dolores: somos la milonga
 -   **jean pool**: no son las mismas reuniones
 
 
-<a id="org8611ed7"></a>
+<a id="org6c33f65"></a>
 
 ### Agenda de la Proxima Reunion #ETNSC: Plan de Lucha
 
@@ -2277,7 +2471,7 @@ algo que incluya a todo lo que se pueda construir
 -   **wanda**: si
 
 
-<a id="orgfcd381f"></a>
+<a id="org64d764b"></a>
 
 ### Milongas Sociales/#ETNSC
 
@@ -2287,7 +2481,7 @@ algo que incluya a todo lo que se pueda construir
 -   **dolores**: entiendo que como organizador es importante la distincion, para luchar, vamos todos juntos
 
 
-<a id="orgda847b2"></a>
+<a id="org1af5b41"></a>
 
 ### Subsidio/Subsidios
 
@@ -2313,7 +2507,7 @@ todas menos 1 te piden una personaria juridica (nacion)
 -   **gustavo**: para patrimonio quizas la chica de la casa de anibal troilo
 
 
-<a id="org4113640"></a>
+<a id="orgbb80c10"></a>
 
 ### Modelos Organizativos
 
@@ -2321,7 +2515,7 @@ todas menos 1 te piden una personaria juridica (nacion)
 -   **niv**: si lo es, podes hacer una federacion/confederacion hasta con otras cooperativas, mutuales, personarias juridicas/&#x2026;
 
 
-<a id="org96e57c5"></a>
+<a id="orgf37299d"></a>
 
 ### Casa de Teresa
 
@@ -2330,7 +2524,7 @@ todas menos 1 te piden una personaria juridica (nacion)
 -   **pedro**: tenemos
 
 
-<a id="org43317e3"></a>
+<a id="org8fe8bd4"></a>
 
 ### Detalles Tecnicos del Subsidio
 
@@ -2341,7 +2535,48 @@ todas menos 1 te piden una personaria juridica (nacion)
 -   **adriana**: son temas distintos
 
 
-<a id="orgef57abc"></a>
+<a id="org812ae8e"></a>
+
+# firmantes
+
+Néstor Abbas Sergio Fernando Abrevaya Gabriela Patricia Alegre Daniel Amoroso Carlos Araujo Christian Gonzalo Asinelli Alicia Bello Luciana Blasco Osvaldo Martín Borrelli Juan Cabandié Fernando Alfredo Cantero Ivana Centanaro Gabriela Carla Cerruti Julián Leonardo D’Angelo Teresa De Anchorena Fernando De Andreis Roberto Destéfano Facundo Martín Di Filippo Patricio Di Stefano Eduardo Ezequiel Epszteyn Pablo Failde Raúl Enrique Fernández Jorge Garayalde Marcelo Rafael Godoy Verónica Gómez Álvaro Gustavo González Sebastián Gramajo Martín Hourest Aníbal Ibarra Gerardo Luis Ingaramo Diego Gabriel Kravetz Silvia La Ruffa Mónica Lubertino Diana Helena Maffía Silvia Cristina Majdalani Diana Martínez Barrios Marcelo Fernando Meis Victoria Morales Gorleri Oscar Moscariello Dora Matilde Mouzo F. Martín Ocampo Enrique Olivera Juan Manuel Olmos Enzo Luis Pagani Liliana Parada Silvina Aurora Pedreira Raúl Alberto Puy Alejandro Rabinovich Cristian Adrián Ritondo Ma. Eugenia Rodríguez Araya Gerardo Romagnoli Gonzalo Roberto Ruanova Diego César Santilli Lidia Saya Guillermo Smith Avelino Tamargo Inés Urdapilleta Marta Varela Patricia Walsh Oscar Zago
+
+
+<a id="org9ba1d9f"></a>
+
+# comisarias
+
+
+<a id="org079cac8"></a>
+
+## Comisaría 1
+
+Dirección: LAVALLE 451 Teléfonos: 4322-8033/8221
+
+
+<a id="orgf61f6e7"></a>
+
+## Comisaría 3
+
+Dirección: TUCUMAN 1560 Teléfonos: 4371-3333 /4373-6194/4374-0454
+
+
+<a id="org7a49181"></a>
+
+# carta
+
+Buenos Aires, 16 de agosto de 2017.
+
+Sr. Comisario de la Seccional Nro&#x2026;.. De la Policia Federal Argentina.- S\_\_/\_<sub>D</sub>.-
+
+A traves de la presente pongo en v. conocimiento que el colectivo cultural "El Tango no se Clausura" realizará una actividad artistica el dia 18 de Agosto en el horario 18hrs a 23hrs en la plazoleta sur del Obelisco, en la interseccion de las Avenidas Corrientes y Nueve de Julio. Dicha actividad se realizara con el fin de celebrar el tango en un acto publico y central.
+
+Asimismo informo que se estima una convocatoria de aprox 120 personas, que no se van a instalar estructuras ni escenarios y que no se interrumpira la circulacion normal en las calles .
+
+Saluda a Ud atte.-
+
+
+<a id="orgd177b64"></a>
 
 # Traducciones
 
@@ -2362,9 +2597,20 @@ todas menos 1 te piden una personaria juridica (nacion)
 |         | #NikarinTangoQedexeBikin  |
 
 
-<a id="org9cfa3db"></a>
+<a id="orgc5a5f54"></a>
 
 # Pedidos publicos de informacion
 
 | Niv     | 00770567/17 |
 | Dolores | 00771027/17 |
+
+-   pedir que entreguen de forma digital en excel
+-   pedir que entreguen de forma digital en algún estándar abierto
+-   pedir las visitas de checkeo
+-   pedir las causas exactas de clausura
+-   pedir donde esta la plata de la unesco
+-   pedir cuanto se gasto en que en el mundial
+-   pedir las clausuras relacionadas a la actividad tango
+-   pedir las clausuras relacionadas a la actividad milonga
+-   Recaudación por multas
+-   cuántas fueron por plan de evacuación 2015/16/17
