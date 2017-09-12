@@ -1,7 +1,6 @@
 ---
 layout: post
 title: #ElTangoNoSeClausura Minutas
-permalink: /minutas
 ---
 
 Links
